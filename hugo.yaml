@@ -36,8 +36,4 @@ params:
 
   footer:
     displayCopyright: false
-    displayPoweredBy: true
-
-  editURL:
-    enable: true
-    base: "https://github.com/zoic21/blog/edit/main/content"
+    displayPoweredBy: false
